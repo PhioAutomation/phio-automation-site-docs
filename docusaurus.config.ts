@@ -48,6 +48,7 @@ const config: Config = {
     // image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Phio Automation',
+      style: 'primary',
       // logo: {
       //   alt: 'Logo',
       //   src: 'img/logo.svg',
@@ -75,7 +76,7 @@ const config: Config = {
       respectPrefersColorScheme: true
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       copyright: `Copyright © ${new Date().getFullYear()} Phio Automation, Inc.`,
     },
     prism: {
