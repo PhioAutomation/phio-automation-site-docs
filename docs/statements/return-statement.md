@@ -5,10 +5,4 @@ tags: ["Return", "Statement"]
 
 # Return Statement
 
-```iecst
-
-FOR i := 1 TO 10 BY 1 DO
-  // Do something
-END_FOR;
-
-```
+The return statement is under construction and currently has no use case as we do not yet support custom functions or programs that could be returned from.

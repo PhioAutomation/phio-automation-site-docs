@@ -5,10 +5,18 @@ tags: ["While", "Statement"]
 
 # While Statement
 
+The while statement is a loop statement which test a condition at the beginning of each loop. If the condition is true, the body of the while loop is executed. If the condition is false, the body is not executed and the evaluator continues on to the next statement.
+
 ```iecst
+i : INT;
+a : INT;
 
-FOR i := 1 TO 10 BY 1 DO
-  // Do something
-END_FOR;
+i := 1;
+WHILE i <= 10
+    a := i;
+    i := i + 1;
+END_WHILE;
 
+print(a);   // a is 10
+print(i);   // i is 11
 ```

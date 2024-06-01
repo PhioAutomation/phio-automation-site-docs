@@ -5,10 +5,17 @@ tags: ["Exit", "Statement"]
 
 # Exit Statement
 
+The exit statement is used to conditionally exit a looping statement (For, While, Repeat).
+
 ```iecst
+i : INT;
+a : INT;
 
 FOR i := 1 TO 10 BY 1 DO
-  // Do something
+    IF i <= 5 THEN
+        a := i;
+    ELSE
+        EXIT;
+    END_IF;
 END_FOR;
-
 ```

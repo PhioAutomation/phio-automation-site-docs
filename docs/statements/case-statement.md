@@ -5,10 +5,29 @@ tags: ["Case", "Statement"]
 
 # Case Statement
 
+The case statement is another form of selector statement similar to the If statement.
+
 ```iecst
+a : INT := 2;
+b : INT;
 
-FOR i := 1 TO 10 BY 1 DO
-  // Do something
-END_FOR;
+CASE a OF
+    1:
+        ;
+    // This block will be executed as a = 2
+    2:
+        b := 1;
 
+    // Range expressions can be used to match a range of values
+    3..6:
+        ;
+
+    // Comma separated values is an additional method to match multiple values
+    7,9:
+        ;
+
+    // This provides a default branch.
+    ELSE:
+        ;
+END_CASE;
 ```

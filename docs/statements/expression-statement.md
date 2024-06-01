@@ -5,10 +5,10 @@ tags: ["Expression", "Statement"]
 
 # Expression Statement
 
+This is technically not an IEC 61131-3 standard.
+
 ```iecst
+a : INT := 3;
 
-FOR i := 1 TO 10 BY 1 DO
-  // Do something
-END_FOR;
-
+a;
 ```

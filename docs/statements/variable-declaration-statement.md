@@ -6,9 +6,9 @@ tags: ["Variable", "Declaration", "Statement"]
 # Variable Declaration Statement
 
 ```iecst
+a : INT;
+```
 
-FOR i := 1 TO 10 BY 1 DO
-  // Do something
-END_FOR;
-
+```iecst
+a : INT := 5;   // Initialize the variable to a value
 ```
