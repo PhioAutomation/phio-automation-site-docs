@@ -3,7 +3,7 @@ sidebar_position: 1
 tags: ["Math", "Operators"]
 ---
 
-# Code Markup
+# Arithmetic Operators
 
 ```iecst
 a : INT := 6;

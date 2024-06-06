@@ -5,6 +5,8 @@ tags: ["Variable", "Declaration", "Statement"]
 
 # Variable Declaration Statement
 
+🔨 Under Construction
+
 ```iecst
 a : INT;
 ```

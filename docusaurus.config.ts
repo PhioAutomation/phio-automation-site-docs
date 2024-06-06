@@ -5,7 +5,6 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Phio Automation',
   tagline: 'An IEC 61131-3 compliant structured text interpreter in the browser.',
-  favicon: 'img/favicon.ico',
 
   url: 'https://docs.phioautomation.com',
   baseUrl: '/',
