@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # About
 
-🔨 Under Construction
-
 ## Mission
 
 We believe that learning a programming language should not require purchasing an expensive license and hardware. In fact, there should be no need to install any software, period.
