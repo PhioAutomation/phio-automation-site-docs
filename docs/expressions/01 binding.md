@@ -1,6 +1,0 @@
----
----
-
-# Binding Strength
-
-🔨 Under Construction

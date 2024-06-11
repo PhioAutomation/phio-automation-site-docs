@@ -2,6 +2,6 @@
 sidebar_position: 3
 ---
 
-# Bitstring Operators
+# Bitshift Operators
 
 🔨 Under Construction

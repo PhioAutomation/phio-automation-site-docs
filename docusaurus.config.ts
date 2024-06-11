@@ -12,6 +12,17 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  headTags:[
+    // Preconnect to the main site
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://phioautomation.com',
+      },
+    }
+  ],
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -65,6 +76,9 @@ const config: Config = {
         },
       ],
     },
+    metadata: [
+      {name: 'keywords', content: 'PLC, structured text, ST, automation, programming'}
+    ],
     colorMode: {
       respectPrefersColorScheme: true
     },
