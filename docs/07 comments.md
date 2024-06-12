@@ -1,7 +1,7 @@
 ---
 title: Comments
 sidebar_position: 2
-slug: Comments
+slug: comments
 # description: empty
 # keywords:
 #   - IEC 61131-3

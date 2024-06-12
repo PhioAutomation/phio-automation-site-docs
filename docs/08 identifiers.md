@@ -1,7 +1,7 @@
 ---
 title: Identifiers
 sidebar_position: 2
-slug: Identifiers
+slug: identifiers
 # description: empty
 # keywords:
 #   - IEC 61131-3

@@ -47,6 +47,18 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'community',
+        path: 'community',
+        routeBasePath: 'community',
+        sidebarPath: './sidebars.ts',       
+      },
+    ],
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     // image: 'img/docusaurus-social-card.jpg',
@@ -63,6 +75,12 @@ const config: Config = {
           sidebarId: 'docSidebar',
           position: 'left',
           label: 'Docs',
+        },
+        {
+          to: '/community/glossary',    // ./docs-api/Intro.md
+          label: 'Community',
+          position: 'left',
+          activeBaseRegex: `/community/`,
         },
         {
           to: '/blog', 

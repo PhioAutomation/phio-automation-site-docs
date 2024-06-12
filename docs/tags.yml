@@ -1,0 +1,9 @@
+print:
+  label: "Print"
+  permalink: "/print"
+  description: "Docs related to the print function"
+
+printf:
+  label: "Print Formatted"
+  permalink: "/printf"
+  description: "Docs related to the print function with formatting"

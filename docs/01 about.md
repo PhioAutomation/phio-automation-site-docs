@@ -1,7 +1,7 @@
 ---
 title: About
 sidebar_position: 1
-slug: About
+slug: about
 # description: empty
 # keywords:
 #   - IEC 61131-3
