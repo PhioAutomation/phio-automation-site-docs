@@ -43,6 +43,9 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        gtag: {
+          trackingID: 'G-6HFKPYLQE4',
+        }
       } satisfies Preset.Options,
     ],
   ],
@@ -77,10 +80,9 @@ const config: Config = {
           label: 'Docs',
         },
         {
-          to: '/community/intro',    // ./docs-api/Intro.md
+          to: '/community',    // ./docs-api/Intro.md
           label: 'Community',
           position: 'left',
-          activeBaseRegex: `/community/`,
         },
         {
           to: '/blog', 
