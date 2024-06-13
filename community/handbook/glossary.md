@@ -2,6 +2,7 @@
 title: Glossary
 sidebar_position: 2
 slug: glossary
+custom_edit_url: https://github.com/PhioAutomation/phio-automation-site-docs/blob/dev/community/community/handbook/glossary.md
 # description: empty
 # keywords:
 #   - IEC 61131-3
@@ -68,5 +69,3 @@ A collection of terms and phrases you might need to know in the automation indus
 ### Y
 
 ### Z
-
-### A

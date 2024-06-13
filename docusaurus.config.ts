@@ -77,7 +77,7 @@ const config: Config = {
           label: 'Docs',
         },
         {
-          to: './community/intro/',    // ./docs-api/Intro.md
+          to: '/community/intro',    // ./docs-api/Intro.md
           label: 'Community',
           position: 'left',
           activeBaseRegex: `/community/`,

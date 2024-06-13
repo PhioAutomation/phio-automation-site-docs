@@ -1,6 +1,7 @@
 ---
 title: Acronyms
 sidebar_position: 1
+custom_edit_url: https://github.com/PhioAutomation/phio-automation-site-docs/blob/dev/community/community/handbook/acronyms.md
 slug: acronyms
 # description: empty
 # keywords:
