@@ -1,6 +1,6 @@
 ---
 title: Acronyms
-sidebar_position: 2
+sidebar_position: 1
 slug: acronyms
 # description: empty
 # keywords:
@@ -21,7 +21,11 @@ A collection of acronyms you might need to know in the automation industry.
 
 ### B
 
+#### BFH
+
 ### C
+
+#### CIP
 
 ### D
 
@@ -33,7 +37,11 @@ A collection of acronyms you might need to know in the automation industry.
 
 ### H
 
+#### HMI
+
 ### I
+
+#### IP
 
 ### J
 
@@ -43,19 +51,51 @@ A collection of acronyms you might need to know in the automation industry.
 
 ### M
 
+#### MAC
+
+#### MES
+
 ### N
+
+#### NC
+
+#### NO
 
 ### O
 
 ### P
 
+#### PID
+
+[Proportional Integral Derivative]
+
+#### PLC
+
+#### PAC
+
 ### Q
 
 ### R
 
+#### RTFM
+
 ### S
 
+#### SCADA
+
+#### SLS
+
 ### T
+
+#### TCP
+
+Tool center point / transfer comm protocol
+
+#### TON
+
+#### TOF
+
+#### TP
 
 ### U
 
@@ -68,5 +108,3 @@ A collection of acronyms you might need to know in the automation industry.
 ### Y
 
 ### Z
-
-### A
