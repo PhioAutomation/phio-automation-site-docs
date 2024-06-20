@@ -1,5 +1,5 @@
 ---
-title: Numeric Operators
+title: Numeric
 slug: numeric
 # description: empty
 # keywords:
@@ -12,6 +12,44 @@ last_update:
   author: aparman
 ---
 
-# Numeric Operators
+# Numeric
 
-🔨 Under Construction
+## Absolute Value
+
+## Sin / Cos / Tan
+
+## Asin / Acos / Atan
+
+## Exponentials
+
+## Exp / Ln
+
+## Expt
+
+## Log
+
+## Square Root
+
+The square root accepts any numeric type as input and returns a `REAL` or `LREAL`;
+
+```iecst
+a : REAL;
+b : LREAL;
+
+// highlight-start
+a := SQRT(2);
+b := SQRT(2);
+// highlight-end
+
+print(a);
+print(b);
+```
+
+:::danger
+
+```iecst
+print(SQRT(-1));
+```
+
+Attempting to take the square root of negative numbers will result in an error.
+:::

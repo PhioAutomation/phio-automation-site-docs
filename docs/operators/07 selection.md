@@ -1,5 +1,5 @@
 ---
-title: Selection Operators
+title: Selection
 slug: selection
 # description: empty
 # keywords:
@@ -12,6 +12,6 @@ last_update:
   author: aparman
 ---
 
-# Selection Operators
+# Selection
 
 🔨 Under Construction

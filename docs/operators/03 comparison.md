@@ -1,5 +1,5 @@
 ---
-title: Comparison Operator
+title: Comparison
 slug: comparison
 # description: empty
 # keywords:
@@ -12,7 +12,7 @@ last_update:
   author: aparman
 ---
 
-# Comparison Operators
+# Comparison
 
 ```iecst
 a : INT := 6;

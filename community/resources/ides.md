@@ -1,7 +1,7 @@
 ---
-title: Editor
-sidebar_position: 2
-slug: editor
+title: IDE
+sidebar_position: 1
+slug: ide
 # description: empty
 # keywords:
 #   - IEC 61131-3
@@ -13,6 +13,8 @@ last_update:
   author: aparman
 ---
 
-# Editor
+# IDE
 
-🔨 Under Construction
+### Soft PLC
+
+### Cloud

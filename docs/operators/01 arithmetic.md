@@ -1,5 +1,5 @@
 ---
-title: Arithmetic Operators
+title: Arithmetic
 slug: arithmetic
 # description: empty
 # keywords:
@@ -12,7 +12,7 @@ last_update:
   author: aparman
 ---
 
-# Arithmetic Operators
+# Arithmetic
 
 ```iecst
 a : INT := 6;
